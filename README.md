@@ -25,6 +25,8 @@ Vaiheet:
    - Verifioi datan eheyden (Integrity) ja alkuperän käyttäen DS-sertifikaattia (`ds_cert.pem`).
    - Tunnistaa automaattisesti, jos dataa on manipuloitu (MitM / väärennösyritys).
 
+![Diagram](finalpassport.png)
+
 ## Teknologiat
 - **OS:** Linux (Ubuntu via WSL2)
 - **Kielet:** Python 3
