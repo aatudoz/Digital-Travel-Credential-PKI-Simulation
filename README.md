@@ -33,7 +33,7 @@ Vaiheet:
 
 ## How to Run
 1. Asenna: `pip install cryptography`
-2. Luo avaimet OpenSSL-komennoilla (katso dokumentaatio).
+2. Luo avaimet OpenSSL-komennoilla (vaihe osio).
 3. Aja `python3 create_dtc.py` -> Luo passin.
 4. Aja `python3 sign_dtc.py` -> Allekirjoittaa passin.
 5. Aja `python3 verify_dtc.py` -> Tarkistaa allekirjoituksen.
