@@ -1,0 +1,6 @@
+*.pem
+*.csr
+*.bin
+face_b64.txt
+dtc_data.json
+__pycache__/
